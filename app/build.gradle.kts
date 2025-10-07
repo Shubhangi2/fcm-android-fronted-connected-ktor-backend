@@ -62,6 +62,8 @@ dependencies {
     implementation(platform(libs.firebase.bom))
     implementation(libs.firebase.messagin)
     implementation(libs.retrofit)
+    implementation(libs.moshi.kotlin)
     implementation(libs.converter.moshi)
+    implementation(libs.http.log)
 
 }

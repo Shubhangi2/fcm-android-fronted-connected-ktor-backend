@@ -72,7 +72,7 @@ fun ChatScreen(
             ) {
                 Icon(
                     imageVector = Icons.Default.Share,
-                    contentDescription = "Send"
+                    contentDescription = "Broadcast"
                 )
             }
         }
